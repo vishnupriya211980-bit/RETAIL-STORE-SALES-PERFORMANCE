@@ -91,7 +91,8 @@ The project analyzes:
 📊 Power BI Dashboard
 <img width="898" height="507" alt="Screenshot 2026-08-20 150340" src="https://github.com/user-attachments/assets/ce957a4e-22bb-4284-a682-820406e461c0" />
 <img width="876" height="427" alt="Screenshot 2026-08-20 150124" src="https://github.com/user-attachments/assets/70968581-9e05-4793-88a1-65079747c5fa" />
-<img width="876" height="427" alt="Screenshot 2026-08-20 150124" src="https://github.com/user-attachments/assets/19c953fe-062b-435e-b7db-1f88c0bf0e0e" />
+<img width="898" height="498" alt="Screenshot 2026-08-20 150304" src="https://github.com/user-attachments/assets/6ed59f80-f363-4e59-9b13-8ffb351714dc" />
+
 
 
 
